@@ -1,3 +1,4 @@
 # Enterprises_Network_Project
-This Is a end to end Enterprises Project
+The network configuration simulated in Packet Tracer for the "Interprises Network Design" project adheres to a hierarchical model, prioritizing efficiency, scalability, and redundancy
+
 
